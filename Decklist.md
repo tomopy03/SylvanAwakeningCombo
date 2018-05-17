@@ -2,8 +2,8 @@
 
 ## 土地 23枚
 
-- 8	《森/Forest》
-- 1	《ハシェプのオアシス/Hashep Oasis》
+- 7	《森/Forest》
+- 2	《ハシェプのオアシス/Hashep Oasis》
 - 6	《平地/Plains》
 - 2	《まばらな木立ち/Scattered Groves》
 - 1	《屍肉あさりの地/Scavenger Grounds》
